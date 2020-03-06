@@ -60,3 +60,8 @@ The SID of the [sms message resource](https://developer.exotel.com/api#send-sms)
 ## License
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/sagarchoudhary96/exosms-actions/blob/master/LICENSE)
+
+<p align="center">
+  Don't forget to 🌟 Star 🌟 the repo if you like this GitHub Action !<br/>
+  <a href="https://github.com/sagarchoudhary96/exosms-actions/issues/new">Your feedback is appreciated</a>
+</p>
