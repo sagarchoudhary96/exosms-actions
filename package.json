@@ -1,0 +1,33 @@
+{
+  "name": "exosms-actions",
+  "version": "1.0.0",
+  "description": "Send an SMS through GitHub Actions using Exotel",
+  "main": "index.js",
+  "scripts": {
+    "build": "ncc build index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarchoudhary96/exosms-actions.git"
+  },
+  "keywords": [
+    "github",
+    "action",
+    "exotel",
+    "sms"
+  ],
+  "author": "Sagar Choudhary <sagar.choudhary96@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagarchoudhary96/exosms-actions/issues"
+  },
+  "homepage": "https://github.com/sagarchoudhary96/exosms-actions#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@zeit/ncc": "^0.21.1"
+  }
+}
