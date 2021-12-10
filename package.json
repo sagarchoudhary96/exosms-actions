@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/sagarchoudhary96/exosms-actions#readme",
   "dependencies": {
-    "@actions/core": "^1.2.3",
+    "@actions/core": "^1.2.6",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
